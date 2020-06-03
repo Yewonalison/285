@@ -1,45 +1,9 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>Alsion</title>
-    <style type="text/css">
-    	body{
-    		background-color: #FFE2DE;
-    		color: #01356B;
-    		font-family: "Comic Sans MS", cursive, sans-serif;
-    	}
-    </style>
-
-</head>
-	
-<body>
-	
-<h1>Hello| this is Yewon Song homepage</h1>
-<p>welcome :)</p>
-    <nav id="nav">
-      <ul type="square">
-        <li><a href="#home">HOME</a></li>
-        <li><a href="#about">ABOUT</a></li>
-        <li><a href="#projects">PROJECTS</a></li>
-        <li><a href="#contact">CONTACT</a></li>
-      </ul>
-    </nav>
-    
-    <header id="home">
-      <h1>Alison MEDP 285 HOMEPAGE</h1>
-    </header>
-    
-    <hr />
-
-    <section id="projects">
-      <h1>Projects</h1>
-	    <ol>
-        <li>Project 1 - <a href="slideshow/index.html">Slideshow</a></li>		    
-	</ol> 	
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <!-- https://yewonalison.github.io/285/ -->
+    <!-- https://www.w3schools.com/howto/howto_js_slideshow.asp -->
 
     <style>
       body {
@@ -82,27 +46,27 @@
   <body>
     <div class="slideshow-container">
       <div class="mySlides fade">
-        <img src="alison1.jpg" style="width:100%" />
+        <img src="img/img00.jpg" style="width:100%" />
       </div>
 
       <div class="mySlides fade">
-        <img src="alison2.jpg" style="width:100%" />
+        <img src="img/img01.jpg" style="width:100%" />
       </div>
 
       <div class="mySlides fade">
-        <img src="alison3.jpg" style="width:100%" />
+        <img src="img/img02.jpg" style="width:100%" />
       </div>
 
       <div class="mySlides fade">
-        <img src="alison4.jpg" style="width:100%" />
+        <img src="img/img03.jpg" style="width:100%" />
       </div>
 
       <div class="mySlides fade">
-        <img src="alison5.jpg" style="width:100%" />
+        <img src="img/img04.jpg" style="width:100%" />
       </div>
 
       <div class="mySlides fade">
-        <img src="nina1.jpg" style="width:100%" />
+        <img src="img/img05.jpg" style="width:100%" />
       </div>
     </div>
 
@@ -133,32 +97,4 @@
     </script>
 
   </body>
-  <ol>
-        <li>Project 2 - <a href="slideshow2/index.html">Slideshow</a></li>
-      </ol>
-      <ol>
-        <li>Project 3 - <a href="slideshow3/index.html">Slideshow</a></li>
-      </ol>
-      <ol>
-        <li>Project 4 - <a href="slideshow4/index.html">Slideshow</a></li>
-      </ol>	    
-    </section>
-	
-	    <hr />
-     
-        <hr />
-    <footer id="contact">
-      <h1>Contact</h1>
-      <p>
-      <a href="0326angel96@gmail.com">My Email</a>
-      <br />
-      <a href="#nav">top</a>
-      </p>
-    </footer>
-    
-	</body>
-	
-		
-
-</html>
 </html>
